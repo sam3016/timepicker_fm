@@ -1,7 +1,7 @@
 <h1>Time Picker(v0.1)</h1>
 
 <h2>Introduction</h2>
-It is a simple addon I built based on the template (cra-template-fmw) from Geist Interactive(for details, please check: https://github.com/geistinteractive/cra-template-fmw) and react-color
+It is a simple addon I built based on the template (cra-template-fmw) from Geist Interactive(for details, please check: https://github.com/geistinteractive/cra-template-fmw) and react-datepicker
 
 It is not for production use. The addon is used at your own risk. I cannot guarantee there is no bug.
 
