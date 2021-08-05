@@ -1,0 +1,7 @@
+﻿{
+	"Title" : "TimePicker",
+	"Description" : "時間の選択。 www.flaticon.comからのアイコン",
+	"Category" : "Sam.Hのアドオン",
+	"Features" : [ "時間の選択。間隔の選択。" ],
+	"Optimized" : [ "Desktop", "Tablet", "Mobile" ]
+}
