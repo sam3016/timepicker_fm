@@ -13,7 +13,7 @@ It supports English, French, German, Italian, Dutch, Spanish, Swedish, Japanese,
 You are welcome to send me the translation of other languages. I will update it as soon as possible.
 
 <h2>FileMaker Version</h2>
-It supports Claris FileMaker > 19.2.2.234
+It supports Claris FileMaker > 19.2.2.234(not test for 19.4.1)
 
 <h2>Installation</h2>
 Please copy the add-on folder to AddonModules
@@ -43,7 +43,7 @@ Geist Interactiveのテンプレイ(詳細: https://github.com/geistinteractive/
 日本語、英語、フランス語、イタリア語、ドイツ語、スウェーデン語、オランダ語、スペイン語、中国語 (簡体字)、韓国語、およびポルトガル語 (ブラジル)がサポートされます。(WebViewerのみ)
 
 <h2>FileMakerバーション</h2>
-FileMaker　19.2.2.234以上サポートされています。
+FileMaker　19.2.2.234以上サポートされています。（19.4.1はまたテストしていません。）
 
 <h2>インストール</h2>
 アドオンフォルダをAddonModulesにコピーしてください。
