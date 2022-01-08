@@ -7,6 +7,9 @@ It is not for production use. The addon is used at your own risk. I cannot guara
 
 Intervals is between 0 and 60.
 
+<h2>Demo</h2>
+https://vimeo.com/663690047
+
 <h2>Language Support(Using Google Translate API)</h2>
 It supports English, French, German, Italian, Dutch, Spanish, Swedish, Japanese, Brazilian-Portuguese, Korean and Simplified Chinese(At least for the webviewer).
 <br><br>
